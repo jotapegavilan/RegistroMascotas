@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Actividad 1 Final</string>
+    <string name="nuevo_titulo">Mi app</string>
+    <string name="titulo_pantalla1">Seleccione una opción</string>
+    <string name="btn_crear">Crear elemento</string>
+    <string name="btn_ver">Ver los elementos</string>
+
+    <string name="titulo_pantalla_crear">Ingrese los datos solicitados</string>
+    <string name="radiobtn">Seleccione sexo</string>
+    <string name="rbtn_fem">Femenino</string>
+    <string name="rbtn_mas">Masculino</string>
+    <string name="cb_texto">Soy la/el dueñ@ de la mascota</string>
+    <string name="texto_btn_crear">Registrar mascota</string>
+    <string name="txtNombre">Nombre de la mascota</string>
+
+    <string name="titulo_pantalla_ver">Estos son los elementos registrados</string>
+</resources>
